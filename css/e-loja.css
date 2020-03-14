@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&display=swap');
+body {
+    font-family: 'Baloo Da 2', cursive;
+    font-size: 1.2rem;
+}
+
+.text-title {
+    font-family: 'Baloo Da 2', cursive;
+    font-size: 6rem;
+}
+
+.bg-title {
+    background-image: linear-gradient(to bottom right, #3867d6, #45aaf2);
+}
